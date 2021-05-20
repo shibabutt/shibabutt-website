@@ -1,0 +1,71 @@
+{
+  "name": "shiba-butt",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "start": "node server.js",
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint",
+    "show": "http-server ./dist"
+  },
+  "dependencies": {
+    "@growthbunker/vuetimeline": "^0.1.17",
+    "@mvpleung/flipclock": "0.0.6",
+    "@vue/cli": "^4.5.12",
+    "breakpoint-sass": "^2.7.1",
+    "core-js": "^3.9.1",
+    "element-ui": "^2.15.1",
+    "lodash": "^4.17.15",
+    "particles.vue": "^2.7.2",
+    "sass": "^1.32.8",
+    "sass-loader": "^10.1.1",
+    "vue": "^2.6.12",
+    "vue-router": "^3.5.1",
+    "vue-scrollto": "^2.20.0",
+    "vue-splash": "^1.2.1",
+    "vue-sticky-directive": "0.0.10",
+    "vue-sweetalert2": "^4.2.1"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "^4.5.12",
+    "@vue/cli-plugin-eslint": "^4.5.12",
+    "@vue/cli-service": "^4.5.12",
+    "babel-eslint": "^10.1.0",
+    "eslint": "^6.8.0",
+    "eslint-plugin-vue": "^6.2.2",
+    "vue-template-compiler": "^2.6.12"
+  },
+  "eslintConfig": {
+    "root": true,
+    "env": {
+      "node": true
+    },
+    "extends": [
+      "plugin:vue/essential",
+      "eslint:recommended"
+    ],
+    "parserOptions": {
+      "parser": "babel-eslint"
+    },
+    "rules": {
+      "no-irregular-whitespace": 0,
+      "vue/no-irregular-whitespace": [
+        "error",
+        {
+          "skipStrings": true,
+          "skipComments": true,
+          "skipRegExps": true,
+          "skipTemplates": true,
+          "skipHTMLAttributeValues": true,
+          "skipHTMLTextContents": true
+        }
+      ]
+    }
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
+  ]
+}
