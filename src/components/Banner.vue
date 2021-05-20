@@ -37,7 +37,7 @@
             <div class="row buy-cta">
               <div class="col-lg-12 col-md-7 buy-cta-inner_" style="padding-left:0">
                 <h3>
-                  Buy on <img :src="require('@/assets/images/pancakeswap.png')" style="height: 50px;margin-left:10px">
+                  Soon on <img :src="require('@/assets/images/pancakeswap.png')" style="height: 50px;margin-left:10px">
                 </h3>
               </div>
             </div>
@@ -65,7 +65,7 @@
     },
     methods: {
       launchApp() {
-        window.open("https://app.SafeWhale.finance/", "_blank")
+        
       },
       onScroll() {
         if (!this.always_fixed_navbar) {

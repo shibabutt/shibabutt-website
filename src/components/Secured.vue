@@ -41,12 +41,6 @@
     }
 
     .musk-card {
-        // position: absolute;
-        // z-index: -1;
-        // top: -35px;
-        // left: 50%;
-        // transform: translateX(-50%);
-
         margin: 50px auto 10px;
         width: 100%;
         position: relative;

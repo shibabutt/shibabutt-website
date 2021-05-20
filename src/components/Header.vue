@@ -73,24 +73,6 @@
             }
         },
         methods: {
-            commingSoon() {
-                this.$swal({
-                    title: 'Coming Soon ...',
-                    width: 400,
-                    padding: '2em',
-                    background: '#fff url(https://i.ibb.co/gwh2dbd/moon.png)',
-                    backdrop: `
-                                rgba(0, 0, 0, 0.5)
-                                url("https://i.ibb.co/TTKCT3K/thuglife2.png")
-                                left top
-                                no-repeat
-                              `
-                });
-            },
-            commingSoon1() {
-                window.open('https://app.SafeWhale.finance', '_blank');
-
-            },
             onScroll() {
                 if (!this.always_fixed_navbar) {
                     // Get the current scroll position

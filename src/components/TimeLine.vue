@@ -49,16 +49,6 @@
                         color="green"
                         theme="light"
                     />
-
-                    <!--<vue-timeline-update
-                            :date="new Date('2021-05-14')"
-                            title="Pancake LIsting"
-                            description="98% of total supply will be added to liquidity with 5 BNB and LPs will be locked."
-                            category="Q2 2021"
-                            icon="code"
-                            color="green"
-                            theme="light"
-                    />-->
                 </div>
             </div>
         </div>
@@ -75,8 +65,8 @@
             }
         },
         methods: {
-            onStick(data) {
-                console.log(data);
+            onStick() {
+                
             },
         }
     }

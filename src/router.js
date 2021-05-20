@@ -1,7 +1,6 @@
 import Vue from 'vue';
 import Router from 'vue-router';
 import Main from './pages/Main';
-// import Branding from "./components/Branding";
 
 Vue.use(Router);
 

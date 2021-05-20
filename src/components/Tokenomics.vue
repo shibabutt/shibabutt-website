@@ -19,7 +19,7 @@
                         <div class="col-lg-7 col-md-6 tokenomic-content">
                             <div class="about-txt">
                                 <h3 style="color:#226ad6;">Token Stuff</h3>
-                                <p>Total Supply: TBD ShibaButt<br></p>
+                                <p>Total Supply: 69.000.000 $SHIBU<br></p>
 
                                 <ul class="ul-token-stuff">
                                     <li>96% tokens are locked into liquidity pool and LP are burned forever.</li>

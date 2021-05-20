@@ -19,9 +19,7 @@
                 <div class="row">
                     <div class="col-lg-12">
                         <div class="fop-btm text-center">
-                            <h2>Copyright © 2021. All rights reserved by <a href="https://shibabutt.finance">ShibaButt
-                                Finance</a>
-                            </h2>
+                            <h2>Copyright © 2021. All rights reserved by ShibaButt</h2>
                         </div>
                     </div>
                 </div>
