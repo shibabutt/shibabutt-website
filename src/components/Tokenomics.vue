@@ -18,13 +18,13 @@
                         <div class="col-lg-1 col-md-1"></div>
                         <div class="col-lg-7 col-md-6 tokenomic-content">
                             <div class="about-txt">
-                                <h3 style="color:#226ad6;">Token Stuff</h3>
-                                <p>Total Supply: 69.000.000 $SHIBU<br></p>
+                                <h3>Total Supply: 69.000.000 $SHIBU</h3>
+                                <br>
 
                                 <ul class="ul-token-stuff">
-                                    <li>96% tokens are locked into liquidity pool and LP are burned forever.</li>
-                                    <li>2% Tokens will be used for AirDrop and contests</li>
-                                    <li>2% tokens will be used as marketing funds to bring $SHIBU to the Moon, Mars and Jupiter</li>
+                                    <li><b>96% tokens</b> are locked into liquidity pool and LP are burned forever.</li>
+                                    <li><b>2% tokens</b> will be used for AirDrop and contests</li>
+                                    <li><b>2% tokens</b> will be used as marketing funds to bring <i>$SHIBU</i> to the Moon, Mars and Jupiter</li>
                                 </ul>
                             </div>
                         </div>
