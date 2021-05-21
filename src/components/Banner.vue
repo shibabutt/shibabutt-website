@@ -17,7 +17,7 @@
           </h3>
 
           <div class="banner-links">
-            <a href="https://twitter.com/shibabutt" target="_blank">
+            <a href="https://twitter.com/ShibabuttToken" target="_blank">
               <i class="fa fa-twitter" aria-hidden="true"></i>
               <span>@ShibaButtToken</span>
             </a>
@@ -27,9 +27,9 @@
               <span>@ShibaButt</span>
             </a>
 
-            <a href="#" target="_blank">
+            <a href="#" target="_blank" style="opacity:0.5;cursor:default;">
               <i class="fa fa-file" aria-hidden="true"></i>
-              <span>Contract</span>
+              <span>Contract (Soon)</span>
             </a>
           </div>
 
