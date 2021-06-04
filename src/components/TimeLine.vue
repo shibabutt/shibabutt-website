@@ -27,6 +27,7 @@
                     />
 
                     <vue-timeline-update
+                        :date="new Date('2021-08-31')"
                         title="<i>Stage #2</i>"
                         description="Establish a partnership network<br />CEX Application<br />NFT auctions to fund bigger scale donations<br />Shiba Butt e-shop release"
                         icon="code"
@@ -34,7 +35,8 @@
                         theme="light"
                     />
                     
-                    <vue-timeline-update    
+                    <vue-timeline-update
+                        :date="new Date('2021-10-30')"
                         title="<i>Stage #3</i>"
                         description="Larger scale marketing<br />Additional CEX Applications<br />Staking and farm options for Shiba Butt holders"
                         icon="code"
@@ -42,7 +44,8 @@
                         theme="light"
                     />
                     
-                    <vue-timeline-update    
+                    <vue-timeline-update
+                        :date="new Date('2021-12-31')"
                         title="<i>Stage #4</i>"
                         description="Binance Listing<br /><br /><u>World Domination</u>"
                         icon="code"

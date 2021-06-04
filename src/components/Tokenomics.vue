@@ -18,14 +18,43 @@
                         <div class="col-lg-1 col-md-1"></div>
                         <div class="col-lg-7 col-md-6 tokenomic-content">
                             <div class="about-txt">
-                                <h3>Total Supply: 69.000.000 $SHIBU</h3>
+                                <h3>Total Supply: 69.000.000 $SHIBUTT</h3>
+                                
+                                <u>of which</u>
                                 <br>
+                                <br>
+                                
+                                23.000000 (33%) will be put as first liquidity with BNB, locked!<br>
+                                Price at launch will be <strong>0,000000043 BNB</strong>
+                                
+
+                                <br><br>
+                                <h5>Target for liquidity</h5>
 
                                 <ul class="ul-token-stuff">
-                                    <li><b>96% tokens</b> are locked into liquidity pool and LP are burned forever.</li>
-                                    <li><b>2% tokens</b> will be used for AirDrop and contests</li>
-                                    <li><b>2% tokens</b> will be used as marketing funds to bring <i>$SHIBU</i> to the Moon, Mars and Jupiter</li>
+                                    <li><b>5%</b> of token will be put as new liquidity (3450000 token) when both telegram and unique holders will be 500+</li>
+                                    <li><b>5%</b> of token will be put as new liquidity (3450000 token) when both telegram and unique holders will be 2500+</li>
+                                    <li><b>5%</b> of token will be put as new liquidity (3450000 token) when both telegram and unique holders will be 10000+</li>
                                 </ul>
+                                <u>For a total token in LP equal to 48%</u>
+
+                                <br><br>
+                                <h5>Target for burn</h5>
+
+                                <ul class="ul-token-stuff">
+                                    <li><b>5%</b> of token will be burned when $SHIBUTT will be listed on CMC (3450000 token)</li>
+                                    <li><b>5%</b> of token will be burned when $SHIBUTT will be listed on CG (3450000 token)</li>
+                                    <li><b>5%</b> of token will be burned when $SHIBUTT will be listed on 1st CEX (3450000 token)</li>
+                                    <li><b>5%</b> of token will be burned when $SHIBUTT will be listed on Trust Wallet (3450000 token)</li>
+                                    <li><b>5%</b> of will be burned when $SHIBUTT will reach 1kk of marketcap (4830000 token)</li>
+                                    <li><b>7%</b> of will be burned when $SHIBUTT will reach 1kk of marketcap (4830000 token)</li>
+                                    <li><b>10%</b> of token will be burned when $SHIBUTT will be listed on Binance (6900000 token)</li>
+                                </ul>
+                                <u>For a total token burned equal to 37%</u>
+
+                                <br><br>
+                                <h5>Partnership and Marketing</h5>
+                                <u>15% of the token marketing and partnership</u>
                             </div>
                         </div>
                     </div>
