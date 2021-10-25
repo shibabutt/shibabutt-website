@@ -37,7 +37,7 @@
             <div class="row buy-cta">
               <div class="col-lg-12 col-md-7 buy-cta-inner_" style="padding-left:0">
                 <h3>
-                  Soon on <img :src="require('@/assets/images/pancakeswap.png')" style="height: 50px;margin-left:10px">
+                  Soon on <img :src="require('@/assets/images/defikingdoms.png')" style="height: 50px;margin-left:10px">
                 </h3>
               </div>
             </div>
