@@ -12,8 +12,8 @@
                         Community driven & fair launch.<br />
                         <u>There is no pre-sale.</u><br />
                         Token will be launched when community reach a consistent number.<br />
-                        💰 The team will add 48% of the token supply in the Pancakeswap Liquidity Pool.<br />
-                        🔥 37% of the supply will be manually burnt at shared milestones (coming soon…).<br />
+                        💰 The team will add 48% of the token supply in the DeFiKingdoms Liquidity Pool.<br />
+                        🔥 37% of the supply will be manually burnt at shared milestones (see Tokenomics).<br />
                         ⭐ 15% of the supply will be used for marketing and contests
                     </div>
                 </div>

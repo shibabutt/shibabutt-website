@@ -9,7 +9,7 @@
             <div class="row over-pa">
                 <div class="col-lg-9 col-sm-12 m-auto">
                     <div class="row overview-text">
-                        Contracts are uploaded and verified on BSCScan, and all LPs generated from fair launch will be burned.<br />
+                        Contracts are uploaded and verified on Harmony Explorer, and all LPs generated from fair launch will be burned.<br />
                         We will renounce ownership of the contract, that’s meaning no exploits are possible.<br />
                         Shiba Butt owner is his community.<br />
                         Plus NOT a single token will be sent to Vitalik Buterin or Elon Musk :)

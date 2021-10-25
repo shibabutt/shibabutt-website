@@ -24,8 +24,8 @@
                                 <br>
                                 <br>
                                 
-                                23.000000 (33%) will be put as first liquidity with BNB, locked!<br>
-                                Price at launch will be <strong>0,000000043 BNB</strong>
+                                23.000000 (33%) will be put as first liquidity with ONE, locked!<br>
+                                Price at launch will be <strong>0,000057 ONE</strong>
                                 
 
                                 <br><br>
@@ -47,7 +47,7 @@
                                     <li><b>5%</b> of token will be burned when $SHIBUTT will be listed on 1st CEX (3450000 token)</li>
                                     <li><b>5%</b> of token will be burned when $SHIBUTT will be listed on Trust Wallet (3450000 token)</li>
                                     <li><b>5%</b> of will be burned when $SHIBUTT will reach 1kk of marketcap (4830000 token)</li>
-                                    <li><b>7%</b> of will be burned when $SHIBUTT will reach 1kk of marketcap (4830000 token)</li>
+                                    <li><b>7%</b> of will be burned when $SHIBUTT will reach 2kk of marketcap (4830000 token)</li>
                                     <li><b>10%</b> of token will be burned when $SHIBUTT will be listed on Binance (6900000 token)</li>
                                 </ul>
                                 <u>For a total token burned equal to 37%</u>
