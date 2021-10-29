@@ -22,7 +22,7 @@
               <span>@ShibaButtToken</span>
             </a>
 
-            <a href="https://t.me/ShibaButt" target="_blank">
+            <a href="https://t.me/shibabuttONE" target="_blank">
               <i class="fa fa-telegram" aria-hidden="true"></i>
               <span>@ShibaButt</span>
             </a>
